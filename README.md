@@ -1,2 +1,7 @@
-# azbasespace-templates
-Templates for the _azbasespace_ connector (Azure to Illumina BaseSpace)
+# _azbasespace_ Templates
+Templates for replicating data from Illumina BaseSpace to Azure.
+
+<h3 align = "right">Tuple, LLC</h3>
+
+## Templates:
+- [Azure Data Factory](ADF)
